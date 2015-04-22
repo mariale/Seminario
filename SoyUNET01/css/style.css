@@ -3,7 +3,7 @@ html, body {width:100%; padding:0; margin:0;}
 body {font:14px/25px Arial,Helvetica,sans-serif;color:#939393;min-width:1264px;background:#131313}
 .ic {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
 .main {width:100%; background:#00078f;}
-/***********************************************************************/
+/*************************00078f**********************************************/
 a {text-decoration:none; cursor:pointer;}
 a:hover {text-decoration:none;}
 a.button {background:#2098f5; font-size:20px; line-height:24px; color:#fff; display:inline-block; padding:5px 23px 5px 23px; }
@@ -114,3 +114,6 @@ dl dd a {}
 #form label strong {font-weight:normal; display:block; padding-bottom:5px;}
 .btns {text-align:left; width:620px; padding-top:18px;}
 .btns a {display:inline-block; margin:0 20px 0 0px;}
+.borde{
+	margin-left: 25px;
+}
