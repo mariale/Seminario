@@ -171,7 +171,7 @@ else
                             <ul class="nav navbar-nav navbar-inverse  ">
                                 <li class="active"><a href="Smedico_abm.php"><p>Administración de Servicio Médico</p></a></li>
                                 <li><a href="Noticias_abm.php"><p>Administración de Noticias</p></a></li>
-                                <li><a href="#"><p>Ayuda</p></a></li> 
+                                
                             </ul>
                             <ul class="nav navbar-nav navbar-right" align="right">
                                 <li><a><?php echo "Bienvenido: "; ?><?php echo $nomm;?> <?php echo " "; ?><?php echo $apee;?></a></li>
