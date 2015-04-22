@@ -133,8 +133,7 @@
                                     </li>
                                     <li class="divider"></li>
                                     <li  role="presentation"><a href="Noticias_adm.php"><p>Agregar Noticias</p></a></li>
-                                    <li class="divider"></li>
-                                    <li  role="presentation"><a href="Noticias_adm.php"><p>Ayuda</p></a></li>
+                                   
                                 </ul>
                                 <ul class="nav navbar-nav navbar-right nav-stacked">
                                     <li class="visible-lg"><a><?php echo "Bienvenido: "; ?><?php echo $NAUsuariio;?></a></li>
