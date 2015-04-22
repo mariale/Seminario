@@ -90,8 +90,6 @@
                                 <ul class="nav navbar-nav navbar-inverse ">
                                     <li><a href="index.php"><p>Inicio</p></a></li>
                                     <li class="active"><a href="Cartelera.php"><p>Cartelera</p></a></li>
-                                    <li><a href="#">Comedor</a></li>
-                                    <li><a href="#">Transporte</a></li>
                                     <li><a href="Smedico.php">Serv. Médico</a></li>
                                 </ul>
                                 <ul class="nav navbar-nav navbar-right ">
